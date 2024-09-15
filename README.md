@@ -5,7 +5,7 @@
 💡 &nbsp;Me apasiona explorar nuevas tecnologías y desarrollar soluciones innovadoras de software y hacking.\
 🌱 &nbsp;Actualmente, estoy aprendiendo más sobre desarrollo Fullstack y ciberseguridad para mejorar mis habilidades en la protección de información.\
 ⚙️ &nbsp;Me encanta crear y automatizar software para mejorar la eficiencia.\
-✍️ &nbsp;En mi tiempo libre, disfruto resolviendo máquinas virtuales en Hack The Box.\
+✍️ &nbsp;En mi tiempo libre, disfruto resolviendo máquinas virtuales en Hack The Box.
 
 ### 🛠 &nbsp;Tecnologías que Utilizo
 
