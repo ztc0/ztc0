@@ -16,9 +16,9 @@
 ### ⚙️ &nbsp;Análisis de GitHub
 
 <div align="center">
-  <a href="https://github.com/alastal0rd">
-    <img height="180em" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=alastal0rd&show_icons=true&theme=dark"/>
-    <img width="395" height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alastal0rd&layout=compact&theme=dark"/>
+  <a href="https://github.com/ztc0">
+    <img height="180em" alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ztc0&show_icons=true&theme=dark"/>
+    <img width="395" height="180em" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ztc0&layout=compact&theme=dark"/>
   </a>
 </div>
 
